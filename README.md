@@ -1,2 +1,1 @@
-# lufanlu.github.io
-baiyangli.com
+Welcome to my page
